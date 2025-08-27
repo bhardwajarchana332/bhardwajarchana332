@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manshish Joshi</h1>
-<h3 align="center">An Enthusiast Full stack Developer From Gwalior,India</h3>
+<h3 align="center">An Enthusiast Full Stack Developer From Gwalior,India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhardwajarchana332](https://github.com/bhardwajarchana332)
 
